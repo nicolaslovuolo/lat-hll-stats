@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794194293.793842,
+    "snapshot_timestamp": 1794194399.179325,
     "stats": [
       {
         "player": "LAT-NicolasloVu",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 632,
+        "time_seconds": 738,
         "last_spawn": "2026-11-09T03:07:41+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,7 +25,7 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 200,
+        "defense": 240,
         "support": 0,
         "most_killed": {},
         "death_by": {},

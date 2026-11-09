@@ -1,6 +1,11 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-09T21:00:01.465830+00:00",
-  "jugadores_conectados": [],
-  "total": 0
+  "actualizado": "2026-11-09T21:05:01.369181+00:00",
+  "jugadores_conectados": [
+    {
+      "nombre": "LAT-Emilianotra",
+      "plataforma": "psn"
+    }
+  ],
+  "total": 1
 }

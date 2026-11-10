@@ -1,11 +1,11 @@
 {
   "result": {
-    "snapshot_timestamp": 1794272388.905123,
+    "snapshot_timestamp": 1794272690.049524,
     "stats": [
       {
         "player": "LAT-Bernardson",
         "platform": "psn",
-        "kills": 1,
+        "kills": 2,
         "kills_streak": 1,
         "deaths": 2,
         "deaths_without_kill_streak": 1,
@@ -16,26 +16,28 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1251,
+        "time_seconds": 1553,
         "last_spawn": "2026-11-10T00:51:35+00:00",
-        "kills_per_minute": 0.05,
-        "deaths_per_minute": 0.1,
-        "kill_death_ratio": 0.5,
+        "kills_per_minute": 0.08,
+        "deaths_per_minute": 0.08,
+        "kill_death_ratio": 1.0,
         "longest_life_secs": 525,
         "shortest_life_secs": 0,
-        "combat": 10,
-        "offense": 0,
-        "defense": 280,
-        "support": 541,
+        "combat": 172,
+        "offense": 20,
+        "defense": 360,
+        "support": 551,
         "most_killed": {
-          "0e8d95e93f73b5d278350b2d7cf17ae3": 1
+          "0e8d95e93f73b5d278350b2d7cf17ae3": 1,
+          "a683e43823f82f206c0afa2906a386b9": 1
         },
         "death_by": {
           "0e8d95e93f73b5d278350b2d7cf17ae3": 1,
           "4f5ac6d68edd8672710915cc1af713a7": 1
         },
         "weapons": {
-          "M1 CARBINE": 1
+          "M1 CARBINE": 1,
+          "KARABINER 98K": 1
         },
         "death_by_weapons": {
           "GEWEHR 43": 1,
@@ -45,7 +47,7 @@
         "level": 158,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
-        "kills_and_assists": 1,
+        "kills_and_assists": 2,
         "deaths_and_redeploys": 3,
         "faction": "ger",
         "status": "online"
@@ -64,17 +66,17 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1078,
+        "time_seconds": 1380,
         "last_spawn": "2026-11-10T00:55:04+00:00",
-        "kills_per_minute": 0.17,
-        "deaths_per_minute": 0.11,
+        "kills_per_minute": 0.13,
+        "deaths_per_minute": 0.09,
         "kill_death_ratio": 1.5,
         "longest_life_secs": 405,
         "shortest_life_secs": 0,
         "combat": 188,
-        "offense": 100,
-        "defense": 280,
-        "support": 1062,
+        "offense": 140,
+        "defense": 340,
+        "support": 1192,
         "most_killed": {
           "a683e43823f82f206c0afa2906a386b9": 2,
           "f005d55498017d6aa5c838d0df7efa4a": 1
@@ -113,17 +115,17 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1078,
+        "time_seconds": 1380,
         "last_spawn": "2026-11-10T00:56:47+00:00",
-        "kills_per_minute": 0.11,
-        "deaths_per_minute": 0.11,
+        "kills_per_minute": 0.09,
+        "deaths_per_minute": 0.09,
         "kill_death_ratio": 1.0,
         "longest_life_secs": 459,
         "shortest_life_secs": 0,
         "combat": 226,
         "offense": 120,
-        "defense": 200,
-        "support": 145,
+        "defense": 300,
+        "support": 205,
         "most_killed": {
           "f005d55498017d6aa5c838d0df7efa4a": 1,
           "a683e43823f82f206c0afa2906a386b9": 1
@@ -153,7 +155,7 @@
         "platform": "psn",
         "kills": 3,
         "kills_streak": 1,
-        "deaths": 3,
+        "deaths": 4,
         "deaths_without_kill_streak": 1,
         "teamkills": 0,
         "teamkills_streak": 0,
@@ -162,15 +164,15 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1078,
-        "last_spawn": "2026-11-10T00:55:45+00:00",
-        "kills_per_minute": 0.17,
+        "time_seconds": 1380,
+        "last_spawn": "2026-11-10T01:04:39+00:00",
+        "kills_per_minute": 0.13,
         "deaths_per_minute": 0.17,
-        "kill_death_ratio": 1.0,
-        "longest_life_secs": 332,
+        "kill_death_ratio": 0.75,
+        "longest_life_secs": 534,
         "shortest_life_secs": 0,
         "combat": 37,
-        "offense": 60,
+        "offense": 160,
         "defense": 280,
         "support": 230,
         "most_killed": {
@@ -179,7 +181,8 @@
         },
         "death_by": {
           "4f5ac6d68edd8672710915cc1af713a7": 2,
-          "0e8d95e93f73b5d278350b2d7cf17ae3": 1
+          "0e8d95e93f73b5d278350b2d7cf17ae3": 1,
+          "f005d55498017d6aa5c838d0df7efa4a": 1
         },
         "weapons": {
           "M1A1 THOMPSON": 2,
@@ -188,14 +191,15 @@
         "death_by_weapons": {
           "STRAFING RUN": 1,
           "BOMBING RUN": 1,
-          "GEWEHR 43": 1
+          "GEWEHR 43": 1,
+          "KARABINER 98K": 1
         },
         "team": "allies",
         "level": 40,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 3,
-        "deaths_and_redeploys": 4,
+        "deaths_and_redeploys": 5,
         "faction": "us",
         "status": "online"
       }

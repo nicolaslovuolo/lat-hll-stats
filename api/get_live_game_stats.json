@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794272087.80495,
+    "snapshot_timestamp": 1794272388.905123,
     "stats": [
       {
         "player": "LAT-Bernardson",
@@ -16,17 +16,17 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 950,
+        "time_seconds": 1251,
         "last_spawn": "2026-11-10T00:51:35+00:00",
-        "kills_per_minute": 0.06,
-        "deaths_per_minute": 0.13,
+        "kills_per_minute": 0.05,
+        "deaths_per_minute": 0.1,
         "kill_death_ratio": 0.5,
         "longest_life_secs": 525,
         "shortest_life_secs": 0,
         "combat": 10,
         "offense": 0,
-        "defense": 200,
-        "support": 521,
+        "defense": 280,
+        "support": 541,
         "most_killed": {
           "0e8d95e93f73b5d278350b2d7cf17ae3": 1
         },
@@ -41,13 +41,13 @@
           "GEWEHR 43": 1,
           "BOMBING RUN": 1
         },
-        "team": "allies",
+        "team": "axis",
         "level": 158,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 1,
-        "deaths_and_redeploys": 2,
-        "faction": "us",
+        "deaths_and_redeploys": 3,
+        "faction": "ger",
         "status": "online"
       },
       {
@@ -55,7 +55,7 @@
         "platform": "psn",
         "kills": 3,
         "kills_streak": 2,
-        "deaths": 1,
+        "deaths": 2,
         "deaths_without_kill_streak": 1,
         "teamkills": 0,
         "teamkills_streak": 0,
@@ -64,46 +64,47 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 777,
-        "last_spawn": "2026-11-10T00:48:35+00:00",
-        "kills_per_minute": 0.23,
-        "deaths_per_minute": 0.08,
-        "kill_death_ratio": 3.0,
+        "time_seconds": 1078,
+        "last_spawn": "2026-11-10T00:55:04+00:00",
+        "kills_per_minute": 0.17,
+        "deaths_per_minute": 0.11,
+        "kill_death_ratio": 1.5,
         "longest_life_secs": 405,
         "shortest_life_secs": 0,
         "combat": 188,
         "offense": 100,
-        "defense": 180,
-        "support": 769,
+        "defense": 280,
+        "support": 1062,
         "most_killed": {
           "a683e43823f82f206c0afa2906a386b9": 2,
           "f005d55498017d6aa5c838d0df7efa4a": 1
         },
         "death_by": {
-          "a683e43823f82f206c0afa2906a386b9": 1
+          "a683e43823f82f206c0afa2906a386b9": 2
         },
         "weapons": {
           "STRAFING RUN": 1,
           "BOMBING RUN": 2
         },
         "death_by_weapons": {
-          "M1A1 THOMPSON": 1
+          "M1A1 THOMPSON": 1,
+          "BOMBING RUN": 1
         },
         "team": "axis",
         "level": 262,
         "vehicles_destroyed": 1,
         "vehicle_kills": 0,
         "kills_and_assists": 3,
-        "deaths_and_redeploys": 1,
+        "deaths_and_redeploys": 2,
         "faction": "ger",
         "status": "online"
       },
       {
         "player": "LAT-WolfARG",
         "platform": "psn",
-        "kills": 1,
+        "kills": 2,
         "kills_streak": 1,
-        "deaths": 1,
+        "deaths": 2,
         "deaths_without_kill_streak": 1,
         "teamkills": 0,
         "teamkills_streak": 0,
@@ -112,44 +113,47 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 777,
-        "last_spawn": "2026-11-10T00:49:29+00:00",
-        "kills_per_minute": 0.08,
-        "deaths_per_minute": 0.08,
+        "time_seconds": 1078,
+        "last_spawn": "2026-11-10T00:56:47+00:00",
+        "kills_per_minute": 0.11,
+        "deaths_per_minute": 0.11,
         "kill_death_ratio": 1.0,
         "longest_life_secs": 459,
         "shortest_life_secs": 0,
-        "combat": 209,
+        "combat": 226,
         "offense": 120,
-        "defense": 120,
-        "support": 140,
+        "defense": 200,
+        "support": 145,
         "most_killed": {
-          "f005d55498017d6aa5c838d0df7efa4a": 1
+          "f005d55498017d6aa5c838d0df7efa4a": 1,
+          "a683e43823f82f206c0afa2906a386b9": 1
         },
         "death_by": {
-          "f005d55498017d6aa5c838d0df7efa4a": 1
+          "f005d55498017d6aa5c838d0df7efa4a": 1,
+          "a683e43823f82f206c0afa2906a386b9": 1
         },
         "weapons": {
-          "GEWEHR 43": 1
+          "GEWEHR 43": 2
         },
         "death_by_weapons": {
-          "M1 CARBINE": 1
+          "M1 CARBINE": 1,
+          "M1A1 THOMPSON": 1
         },
         "team": "axis",
         "level": 134,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
-        "kills_and_assists": 1,
-        "deaths_and_redeploys": 2,
+        "kills_and_assists": 2,
+        "deaths_and_redeploys": 3,
         "faction": "ger",
         "status": "online"
       },
       {
         "player": "ElManteca30",
         "platform": "psn",
-        "kills": 1,
+        "kills": 3,
         "kills_streak": 1,
-        "deaths": 2,
+        "deaths": 3,
         "deaths_without_kill_streak": 1,
         "teamkills": 0,
         "teamkills_streak": 0,
@@ -158,36 +162,40 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 777,
-        "last_spawn": "2026-11-10T00:51:39+00:00",
-        "kills_per_minute": 0.08,
-        "deaths_per_minute": 0.15,
-        "kill_death_ratio": 0.5,
+        "time_seconds": 1078,
+        "last_spawn": "2026-11-10T00:55:45+00:00",
+        "kills_per_minute": 0.17,
+        "deaths_per_minute": 0.17,
+        "kill_death_ratio": 1.0,
         "longest_life_secs": 332,
         "shortest_life_secs": 0,
-        "combat": 13,
-        "offense": 0,
-        "defense": 260,
+        "combat": 37,
+        "offense": 60,
+        "defense": 280,
         "support": 230,
         "most_killed": {
-          "4f5ac6d68edd8672710915cc1af713a7": 1
+          "4f5ac6d68edd8672710915cc1af713a7": 2,
+          "0e8d95e93f73b5d278350b2d7cf17ae3": 1
         },
         "death_by": {
-          "4f5ac6d68edd8672710915cc1af713a7": 2
+          "4f5ac6d68edd8672710915cc1af713a7": 2,
+          "0e8d95e93f73b5d278350b2d7cf17ae3": 1
         },
         "weapons": {
-          "M1A1 THOMPSON": 1
+          "M1A1 THOMPSON": 2,
+          "BOMBING RUN": 1
         },
         "death_by_weapons": {
           "STRAFING RUN": 1,
-          "BOMBING RUN": 1
+          "BOMBING RUN": 1,
+          "GEWEHR 43": 1
         },
         "team": "allies",
         "level": 40,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
-        "kills_and_assists": 1,
-        "deaths_and_redeploys": 3,
+        "kills_and_assists": 3,
+        "deaths_and_redeploys": 4,
         "faction": "us",
         "status": "online"
       }

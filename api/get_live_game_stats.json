@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794413089.566129,
+    "snapshot_timestamp": 1794413389.392141,
     "stats": [
       {
         "player": "xBANDIT 440x",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 23,
+        "time_seconds": 323,
         "last_spawn": "2026-11-11T16:04:26+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -31,13 +31,13 @@
         "death_by": {},
         "weapons": {},
         "death_by_weapons": {},
-        "team": null,
+        "team": "axis",
         "level": 35,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
         "deaths_and_redeploys": 0,
-        "faction": null,
+        "faction": "ger",
         "status": "online"
       },
       {
@@ -54,7 +54,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 36,
+        "time_seconds": 336,
         "last_spawn": "2026-11-11T16:04:13+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -69,13 +69,13 @@
         "death_by": {},
         "weapons": {},
         "death_by_weapons": {},
-        "team": null,
+        "team": "allies",
         "level": 136,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
         "deaths_and_redeploys": 0,
-        "faction": null,
+        "faction": "cw",
         "status": "online"
       }
     ],

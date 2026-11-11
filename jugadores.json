@@ -1,6 +1,11 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-11T08:35:02.145589+00:00",
-  "jugadores_conectados": [],
-  "total": 0
+  "actualizado": "2026-11-11T08:40:01.400281+00:00",
+  "jugadores_conectados": [
+    {
+      "nombre": "Flygun cz2737",
+      "plataforma": "xbl"
+    }
+  ],
+  "total": 1
 }

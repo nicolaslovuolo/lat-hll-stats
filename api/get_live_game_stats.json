@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794386699.85234,
+    "snapshot_timestamp": 1794387000.932339,
     "stats": [
       {
         "player": "Flygun cz2737",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 346,
+        "time_seconds": 647,
         "last_spawn": "2026-11-11T08:39:13+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -24,9 +24,9 @@
         "longest_life_secs": 0,
         "shortest_life_secs": 0,
         "combat": 0,
-        "offense": 0,
-        "defense": 60,
-        "support": 90,
+        "offense": 80,
+        "defense": 80,
+        "support": 240,
         "most_killed": {},
         "death_by": {},
         "weapons": {},

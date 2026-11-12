@@ -1,13 +1,13 @@
 {
   "result": {
-    "snapshot_timestamp": 1794444896.864818,
+    "snapshot_timestamp": 1794445198.038773,
     "stats": [
       {
         "player": "LAT-Emilianotra",
         "platform": "psn",
-        "kills": 2,
+        "kills": 3,
         "kills_streak": 2,
-        "deaths": 2,
+        "deaths": 3,
         "deaths_without_kill_streak": 2,
         "teamkills": 1,
         "teamkills_streak": 1,
@@ -16,46 +16,48 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1905,
-        "last_spawn": "2026-11-12T00:53:46+00:00",
-        "kills_per_minute": 0.06,
-        "deaths_per_minute": 0.06,
+        "time_seconds": 2207,
+        "last_spawn": "2026-11-12T00:55:56+00:00",
+        "kills_per_minute": 0.08,
+        "deaths_per_minute": 0.08,
         "kill_death_ratio": 1.0,
         "longest_life_secs": 1417,
         "shortest_life_secs": 0,
-        "combat": 139,
-        "offense": 180,
-        "defense": 340,
-        "support": 55,
+        "combat": 153,
+        "offense": 260,
+        "defense": 360,
+        "support": 75,
         "most_killed": {
-          "4f5ac6d68edd8672710915cc1af713a7": 2
+          "4f5ac6d68edd8672710915cc1af713a7": 3
         },
         "death_by": {
-          "4f5ac6d68edd8672710915cc1af713a7": 2
+          "4f5ac6d68edd8672710915cc1af713a7": 2,
+          "5cc3999af1b8f6b42bf1c995cccee3d1": 1
         },
         "weapons": {
           "M8 Greyhound": 1,
-          "M6 37mm [M8 Greyhound]": 1
+          "M6 37mm [M8 Greyhound]": 1,
+          "M1A1 THOMPSON": 1
         },
         "death_by_weapons": {
-          "MP40": 1,
+          "MP40": 2,
           "BOMBING RUN": 1
         },
         "team": "allies",
         "level": 120,
         "vehicles_destroyed": 0,
         "vehicle_kills": 1,
-        "kills_and_assists": 2,
-        "deaths_and_redeploys": 5,
+        "kills_and_assists": 3,
+        "deaths_and_redeploys": 6,
         "faction": "us",
         "status": "online"
       },
       {
         "player": "LAT-NicolasloVu",
         "platform": "psn",
-        "kills": 3,
+        "kills": 4,
         "kills_streak": 3,
-        "deaths": 2,
+        "deaths": 4,
         "deaths_without_kill_streak": 2,
         "teamkills": 0,
         "teamkills_streak": 0,
@@ -64,47 +66,49 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1541,
-        "last_spawn": "2026-11-12T00:44:40+00:00",
-        "kills_per_minute": 0.12,
-        "deaths_per_minute": 0.08,
-        "kill_death_ratio": 1.5,
+        "time_seconds": 1843,
+        "last_spawn": "2026-11-12T00:59:32+00:00",
+        "kills_per_minute": 0.13,
+        "deaths_per_minute": 0.13,
+        "kill_death_ratio": 1.0,
         "longest_life_secs": 759,
         "shortest_life_secs": 0,
-        "combat": 152,
-        "offense": 140,
-        "defense": 260,
-        "support": 904,
+        "combat": 215,
+        "offense": 160,
+        "defense": 340,
+        "support": 1035,
         "most_killed": {
           "280ad28086a269ea1ca6b041a887af41": 2,
-          "0e8d95e93f73b5d278350b2d7cf17ae3": 1
+          "0e8d95e93f73b5d278350b2d7cf17ae3": 2
         },
         "death_by": {
-          "280ad28086a269ea1ca6b041a887af41": 2
+          "280ad28086a269ea1ca6b041a887af41": 3,
+          "0de880951fc7eae88e062a7d5db8fe46": 1
         },
         "weapons": {
-          "MP40": 1,
+          "MP40": 2,
           "BOMBING RUN": 1,
           "LUGER P08": 1
         },
         "death_by_weapons": {
           "M8 Greyhound": 1,
-          "M6 37mm [M8 Greyhound]": 1
+          "M6 37mm [M8 Greyhound]": 1,
+          "M1A1 THOMPSON": 2
         },
         "team": "axis",
         "level": 262,
         "vehicles_destroyed": 2,
         "vehicle_kills": 0,
-        "kills_and_assists": 3,
-        "deaths_and_redeploys": 2,
+        "kills_and_assists": 4,
+        "deaths_and_redeploys": 4,
         "faction": "ger",
         "status": "online"
       },
       {
         "player": "SpicyZapote",
         "platform": "psn",
-        "kills": 0,
-        "kills_streak": 0,
+        "kills": 1,
+        "kills_streak": 1,
         "deaths": 1,
         "deaths_without_kill_streak": 1,
         "teamkills": 0,
@@ -114,22 +118,26 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1109,
+        "time_seconds": 1411,
         "last_spawn": "2026-11-12T00:54:23+00:00",
-        "kills_per_minute": 0.0,
-        "deaths_per_minute": 0.05,
-        "kill_death_ratio": 0.0,
+        "kills_per_minute": 0.04,
+        "deaths_per_minute": 0.04,
+        "kill_death_ratio": 1.0,
         "longest_life_secs": 1076,
         "shortest_life_secs": 0,
-        "combat": 1,
-        "offense": 0,
+        "combat": 14,
+        "offense": 60,
         "defense": 340,
         "support": 0,
-        "most_killed": {},
+        "most_killed": {
+          "4f5ac6d68edd8672710915cc1af713a7": 1
+        },
         "death_by": {
           "5cc3999af1b8f6b42bf1c995cccee3d1": 1
         },
-        "weapons": {},
+        "weapons": {
+          "M1A1 THOMPSON": 1
+        },
         "death_by_weapons": {
           "MP40": 1
         },
@@ -137,17 +145,17 @@
         "level": 1,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
-        "kills_and_assists": 0,
-        "deaths_and_redeploys": 1,
+        "kills_and_assists": 1,
+        "deaths_and_redeploys": 2,
         "faction": "us",
         "status": "online"
       },
       {
         "player": "LAT-WolfARG",
         "platform": "psn",
-        "kills": 0,
-        "kills_streak": 0,
-        "deaths": 2,
+        "kills": 1,
+        "kills_streak": 1,
+        "deaths": 3,
         "deaths_without_kill_streak": 2,
         "teamkills": 0,
         "teamkills_streak": 0,
@@ -156,43 +164,47 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 2195,
-        "last_spawn": "2026-11-12T00:54:41+00:00",
-        "kills_per_minute": 0.0,
-        "deaths_per_minute": 0.05,
-        "kill_death_ratio": 0.0,
+        "time_seconds": 2497,
+        "last_spawn": "2026-11-12T00:59:22+00:00",
+        "kills_per_minute": 0.02,
+        "deaths_per_minute": 0.07,
+        "kill_death_ratio": 0.33,
         "longest_life_secs": 1119,
         "shortest_life_secs": 0,
-        "combat": 0,
-        "offense": 20,
-        "defense": 600,
-        "support": 593,
-        "most_killed": {},
+        "combat": 10,
+        "offense": 60,
+        "defense": 640,
+        "support": 735,
+        "most_killed": {
+          "5cc3999af1b8f6b42bf1c995cccee3d1": 1
+        },
         "death_by": {
           "5cc3999af1b8f6b42bf1c995cccee3d1": 1,
-          "4f5ac6d68edd8672710915cc1af713a7": 1
+          "4f5ac6d68edd8672710915cc1af713a7": 2
         },
-        "weapons": {},
+        "weapons": {
+          "M1 GARAND": 1
+        },
         "death_by_weapons": {
-          "MP40": 1,
+          "MP40": 2,
           "LUGER P08": 1
         },
         "team": "allies",
         "level": 134,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
-        "kills_and_assists": 0,
-        "deaths_and_redeploys": 4,
+        "kills_and_assists": 1,
+        "deaths_and_redeploys": 5,
         "faction": "us",
         "status": "online"
       },
       {
         "player": "LAT-AlacranArg",
         "platform": "psn",
-        "kills": 2,
-        "kills_streak": 2,
-        "deaths": 0,
-        "deaths_without_kill_streak": 0,
+        "kills": 3,
+        "kills_streak": 3,
+        "deaths": 1,
+        "deaths_without_kill_streak": 1,
         "teamkills": 0,
         "teamkills_streak": 0,
         "deaths_by_tk": 0,
@@ -200,32 +212,37 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 336,
-        "last_spawn": "2026-11-12T00:49:20+00:00",
-        "kills_per_minute": 0.36,
-        "deaths_per_minute": 0.0,
-        "kill_death_ratio": 2.0,
-        "longest_life_secs": 0,
+        "time_seconds": 638,
+        "last_spawn": "2026-11-12T00:58:12+00:00",
+        "kills_per_minute": 0.28,
+        "deaths_per_minute": 0.09,
+        "kill_death_ratio": 3.0,
+        "longest_life_secs": 532,
         "shortest_life_secs": 0,
-        "combat": 24,
-        "offense": 80,
-        "defense": 0,
-        "support": 20,
+        "combat": 36,
+        "offense": 100,
+        "defense": 60,
+        "support": 40,
         "most_killed": {
           "0e8d95e93f73b5d278350b2d7cf17ae3": 1,
-          "0de880951fc7eae88e062a7d5db8fe46": 1
+          "0de880951fc7eae88e062a7d5db8fe46": 1,
+          "280ad28086a269ea1ca6b041a887af41": 1
         },
-        "death_by": {},
+        "death_by": {
+          "0e8d95e93f73b5d278350b2d7cf17ae3": 1
+        },
         "weapons": {
-          "MP40": 2
+          "MP40": 3
         },
-        "death_by_weapons": {},
+        "death_by_weapons": {
+          "M1 GARAND": 1
+        },
         "team": "axis",
         "level": 147,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
-        "kills_and_assists": 2,
-        "deaths_and_redeploys": 0,
+        "kills_and_assists": 3,
+        "deaths_and_redeploys": 1,
         "faction": "ger",
         "status": "online"
       }

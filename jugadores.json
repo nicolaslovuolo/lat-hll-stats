@@ -1,31 +1,6 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-12T01:30:01.376155+00:00",
-  "jugadores_conectados": [
-    {
-      "nombre": "LAT-Emilianotra",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "LAT-NicolasloVu",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "SpicyZapote",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "LAT-WolfARG",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "LAT-AlacranArg",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "Nangspanker",
-      "plataforma": "psn"
-    }
-  ],
-  "total": 6
+  "actualizado": "2026-11-12T01:35:01.609281+00:00",
+  "jugadores_conectados": [],
+  "total": 0
 }

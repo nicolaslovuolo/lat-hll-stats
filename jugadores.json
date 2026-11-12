@@ -1,37 +1,9 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-12T22:55:01.283274+00:00",
+  "actualizado": "2026-11-12T23:00:01.421890+00:00",
   "jugadores_conectados": [
     {
       "nombre": "LucaYT_4",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "LAT-CirEviL",
-      "plataforma": "xbl"
-    },
-    {
-      "nombre": "R0D0LF0",
-      "plataforma": "xbl"
-    },
-    {
-      "nombre": "LAT-Alex",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "Mago_DoMato",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "LAT-TinchoSKY",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "SOH - Cb Araujo",
-      "plataforma": null
-    },
-    {
-      "nombre": "LAT-tano",
       "plataforma": "psn"
     },
     {
@@ -39,45 +11,17 @@
       "plataforma": "psn"
     },
     {
-      "nombre": "LAT-Natzo",
+      "nombre": "SaP FRANCO",
       "plataforma": "psn"
-    },
-    {
-      "nombre": "-WRT-Espirito",
-      "plataforma": "xbl"
     },
     {
       "nombre": "SaP GEGE",
       "plataforma": "psn"
     },
     {
-      "nombre": "Yurik_TIGER",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "VACALAIZER",
-      "plataforma": "xbl"
-    },
-    {
-      "nombre": "LAT-NicolasloVu",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "ElTuku_2321",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "SWAT3507",
-      "plataforma": "xbl"
-    },
-    {
-      "nombre": "HRB_Paiva",
-      "plataforma": "xbl"
-    },
-    {
-      "nombre": "LAT-WolfARG",
+      "nombre": "Talegnani__1900",
       "plataforma": "psn"
     }
   ],
-  "total": 19
+  "total": 5
 }

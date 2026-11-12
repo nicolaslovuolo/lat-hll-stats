@@ -1,19 +1,27 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-12T21:45:01.577820+00:00",
+  "actualizado": "2026-11-12T21:50:01.576472+00:00",
   "jugadores_conectados": [
     {
       "nombre": "LAT-TinchoSKY",
       "plataforma": "psn"
     },
     {
-      "nombre": "LAT-Alex",
+      "nombre": "LAT-CirEviL",
+      "plataforma": "xbl"
+    },
+    {
+      "nombre": "Obi-Van-1975",
       "plataforma": "psn"
     },
     {
-      "nombre": "LAT-CirEviL",
-      "plataforma": "xbl"
+      "nombre": "LAT-NicolasloVu",
+      "plataforma": "psn"
+    },
+    {
+      "nombre": "LAT-Alex",
+      "plataforma": "psn"
     }
   ],
-  "total": 3
+  "total": 5
 }

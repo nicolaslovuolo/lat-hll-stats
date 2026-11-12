@@ -1,6 +1,6 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-12T22:50:02.212967+00:00",
+  "actualizado": "2026-11-12T22:55:01.283274+00:00",
   "jugadores_conectados": [
     {
       "nombre": "LucaYT_4",
@@ -47,6 +47,10 @@
       "plataforma": "xbl"
     },
     {
+      "nombre": "SaP GEGE",
+      "plataforma": "psn"
+    },
+    {
       "nombre": "Yurik_TIGER",
       "plataforma": "psn"
     },
@@ -75,5 +79,5 @@
       "plataforma": "psn"
     }
   ],
-  "total": 18
+  "total": 19
 }

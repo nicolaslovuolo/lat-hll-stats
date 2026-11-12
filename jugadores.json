@@ -1,13 +1,25 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-12T22:10:01.753672+00:00",
+  "actualizado": "2026-11-12T22:15:01.706261+00:00",
   "jugadores_conectados": [
     {
-      "nombre": "LAT-TinchoSKY",
+      "nombre": "LucaYT_4",
       "plataforma": "psn"
     },
     {
-      "nombre": "LucaYT_4",
+      "nombre": "LAT-CirEviL",
+      "plataforma": "xbl"
+    },
+    {
+      "nombre": "LAT-Alex",
+      "plataforma": "psn"
+    },
+    {
+      "nombre": "Mago_DoMato",
+      "plataforma": "psn"
+    },
+    {
+      "nombre": "LAT-TinchoSKY",
       "plataforma": "psn"
     },
     {
@@ -19,19 +31,11 @@
       "plataforma": "psn"
     },
     {
-      "nombre": "LAT-WolfARG",
+      "nombre": "LAT-Emilianotra",
       "plataforma": "psn"
     },
     {
-      "nombre": "3LPZ-GTZIN",
-      "plataforma": "xbl"
-    },
-    {
-      "nombre": "LAT-CirEviL",
-      "plataforma": "xbl"
-    },
-    {
-      "nombre": "LAT-Emilianotra",
+      "nombre": "olivade",
       "plataforma": "psn"
     },
     {
@@ -43,11 +47,7 @@
       "plataforma": "psn"
     },
     {
-      "nombre": "olivade",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "LAT-Alex",
+      "nombre": "ElTuku_2321",
       "plataforma": "psn"
     },
     {
@@ -59,9 +59,13 @@
       "plataforma": null
     },
     {
-      "nombre": "Mago_DoMato",
+      "nombre": "HRB_Paiva",
+      "plataforma": "xbl"
+    },
+    {
+      "nombre": "LAT-WolfARG",
       "plataforma": "psn"
     }
   ],
-  "total": 15
+  "total": 16
 }

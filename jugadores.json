@@ -1,6 +1,6 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-12T23:40:01.920856+00:00",
+  "actualizado": "2026-11-12T23:45:01.882899+00:00",
   "jugadores_conectados": [
     {
       "nombre": "LucaYT_4",
@@ -11,16 +11,16 @@
       "plataforma": "xbl"
     },
     {
+      "nombre": "ERICKCR2098",
+      "plataforma": "xbl"
+    },
+    {
       "nombre": "danfera16",
       "plataforma": "psn"
     },
     {
       "nombre": "SOH-Sedequr_Pla",
       "plataforma": "psn"
-    },
-    {
-      "nombre": "Guinostico",
-      "plataforma": "xbl"
     },
     {
       "nombre": "LAT-Emilianotra",
@@ -47,14 +47,6 @@
       "plataforma": "psn"
     },
     {
-      "nombre": "-RZN-Ribeiro",
-      "plataforma": "xbl"
-    },
-    {
-      "nombre": "Warlock7K",
-      "plataforma": "psn"
-    },
-    {
       "nombre": "Talegnani__1900",
       "plataforma": "psn"
     },
@@ -64,6 +56,14 @@
     },
     {
       "nombre": "wardaddycollier",
+      "plataforma": "psn"
+    },
+    {
+      "nombre": "Br4doX_Oficial",
+      "plataforma": "psn"
+    },
+    {
+      "nombre": "Macgre_gorpro",
       "plataforma": "psn"
     },
     {

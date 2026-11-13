@@ -1,51 +1,7 @@
 {
   "result": {
-    "snapshot_timestamp": 1794528294.902014,
+    "snapshot_timestamp": 1794528596.295148,
     "stats": [
-      {
-        "player": "Talegnani__1900",
-        "platform": "psn",
-        "kills": 3,
-        "kills_streak": 3,
-        "deaths": 0,
-        "deaths_without_kill_streak": 0,
-        "teamkills": 0,
-        "teamkills_streak": 0,
-        "deaths_by_tk": 0,
-        "deaths_by_tk_streak": 0,
-        "nb_vote_started": 0,
-        "nb_voted_yes": 0,
-        "nb_voted_no": 0,
-        "time_seconds": 750,
-        "last_spawn": "2026-11-12T23:52:24+00:00",
-        "kills_per_minute": 0.24,
-        "deaths_per_minute": 0.0,
-        "kill_death_ratio": 3.0,
-        "longest_life_secs": 0,
-        "shortest_life_secs": 0,
-        "combat": 32,
-        "offense": 240,
-        "defense": 0,
-        "support": 0,
-        "most_killed": {
-          "25777fe68ecccbec136e2d05930f171f": 1,
-          "9694290b388bea9955404cb5d061b4eb": 2
-        },
-        "death_by": {},
-        "weapons": {
-          "COAXIAL M1919 [Stuart M5A1]": 2,
-          "37MM CANNON [Stuart M5A1]": 1
-        },
-        "death_by_weapons": {},
-        "team": "allies",
-        "level": 81,
-        "vehicles_destroyed": 0,
-        "vehicle_kills": 3,
-        "kills_and_assists": 3,
-        "deaths_and_redeploys": 0,
-        "faction": "us",
-        "status": "online"
-      },
       {
         "player": "Tatotum",
         "platform": "xbl",
@@ -60,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 832,
+        "time_seconds": 1134,
         "last_spawn": "2026-11-12T23:51:02+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,

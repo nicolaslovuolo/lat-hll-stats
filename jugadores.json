@@ -1,25 +1,9 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-12T23:55:01.762509+00:00",
+  "actualizado": "2026-11-13T00:00:01.980087+00:00",
   "jugadores_conectados": [
     {
-      "nombre": "LucaYT_4",
-      "plataforma": "psn"
-    },
-    {
       "nombre": "julianoaguir",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "3LPZ-NASCIMENTO",
-      "plataforma": "psn"
-    },
-    {
-      "nombre": "OCL - Tom",
-      "plataforma": null
-    },
-    {
-      "nombre": "Macgre_gorpro",
       "plataforma": "psn"
     },
     {
@@ -31,5 +15,5 @@
       "plataforma": "xbl"
     }
   ],
-  "total": 7
+  "total": 3
 }

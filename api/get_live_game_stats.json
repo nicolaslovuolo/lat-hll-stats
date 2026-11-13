@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794551101.092692,
+    "snapshot_timestamp": 1794551387.227637,
     "stats": [
       {
         "player": "wardaddycollier",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 857,
+        "time_seconds": 1143,
         "last_spawn": "2026-11-13T06:10:44+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,7 +25,7 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 260,
+        "defense": 360,
         "support": 60,
         "most_killed": {},
         "death_by": {},

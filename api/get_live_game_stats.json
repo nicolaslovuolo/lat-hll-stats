@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794612897.470217,
+    "snapshot_timestamp": 1794613198.556795,
     "stats": [
       {
         "player": "LAT-WolfARG",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 585,
+        "time_seconds": 886,
         "last_spawn": "2026-11-13T23:25:12+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,8 +25,8 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 140,
-        "support": 0,
+        "defense": 200,
+        "support": 30,
         "most_killed": {},
         "death_by": {},
         "weapons": {},
@@ -36,7 +36,7 @@
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
-        "deaths_and_redeploys": 0,
+        "deaths_and_redeploys": 1,
         "faction": "ger",
         "status": "online"
       },
@@ -54,7 +54,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 309,
+        "time_seconds": 610,
         "last_spawn": "2026-11-13T23:33:30+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -63,7 +63,7 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 60,
+        "defense": 160,
         "support": 30,
         "most_killed": {},
         "death_by": {},

@@ -1,9 +1,9 @@
 {
   "result": {
-    "snapshot_timestamp": 1794696594.836196,
+    "snapshot_timestamp": 1794696896.105994,
     "stats": [
       {
-        "player": "DerPf10",
+        "player": "LAT-WolfARG",
         "platform": "psn",
         "kills": 0,
         "kills_streak": 0,
@@ -16,8 +16,8 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 829,
-        "last_spawn": "2026-11-14T22:36:05+00:00",
+        "time_seconds": 250,
+        "last_spawn": "2026-11-14T22:50:46+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
         "kill_death_ratio": 0.0,
@@ -25,19 +25,19 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 0,
+        "defense": 60,
         "support": 0,
         "most_killed": {},
         "death_by": {},
         "weapons": {},
         "death_by_weapons": {},
-        "team": null,
-        "level": 127,
+        "team": "allies",
+        "level": 135,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
         "deaths_and_redeploys": 0,
-        "faction": null,
+        "faction": "us",
         "status": "online"
       }
     ],

@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794683992.660798,
+    "snapshot_timestamp": 1794684293.87898,
     "stats": [
       {
         "player": "LAT-AlacranArg",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 803,
+        "time_seconds": 1104,
         "last_spawn": "2026-11-14T19:06:29+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,8 +25,8 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 100,
-        "support": 310,
+        "defense": 120,
+        "support": 450,
         "most_killed": {},
         "death_by": {},
         "weapons": {},
@@ -36,7 +36,7 @@
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
-        "deaths_and_redeploys": 0,
+        "deaths_and_redeploys": 1,
         "faction": "us",
         "status": "online"
       }

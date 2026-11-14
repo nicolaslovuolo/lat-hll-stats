@@ -1,9 +1,9 @@
 {
   "result": {
-    "snapshot_timestamp": 1794693295.625571,
+    "snapshot_timestamp": 1794693596.895379,
     "stats": [
       {
-        "player": "LAT-Alex",
+        "player": "LAT-Emilianotra",
         "platform": "psn",
         "kills": 0,
         "kills_streak": 0,
@@ -16,8 +16,8 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 57,
-        "last_spawn": "2026-11-14T21:53:58+00:00",
+        "time_seconds": 93,
+        "last_spawn": "2026-11-14T21:58:23+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
         "kill_death_ratio": 0.0,
@@ -26,27 +26,27 @@
         "combat": 0,
         "offense": 0,
         "defense": 0,
-        "support": 0,
+        "support": 10,
         "most_killed": {},
         "death_by": {},
         "weapons": {},
         "death_by_weapons": {},
-        "team": "axis",
-        "level": 115,
+        "team": "allies",
+        "level": 121,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
         "deaths_and_redeploys": 0,
-        "faction": "ger",
+        "faction": "us",
         "status": "online"
       },
       {
         "player": "LAT-NicolasloVu",
         "platform": "psn",
-        "kills": 1,
+        "kills": 2,
         "kills_streak": 1,
-        "deaths": 2,
-        "deaths_without_kill_streak": 2,
+        "deaths": 3,
+        "deaths_without_kill_streak": 3,
         "teamkills": 0,
         "teamkills_streak": 0,
         "deaths_by_tk": 0,
@@ -54,45 +54,93 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1481,
-        "last_spawn": "2026-11-14T21:54:51+00:00",
-        "kills_per_minute": 0.04,
-        "deaths_per_minute": 0.08,
-        "kill_death_ratio": 0.5,
+        "time_seconds": 1782,
+        "last_spawn": "2026-11-14T21:56:17+00:00",
+        "kills_per_minute": 0.07,
+        "deaths_per_minute": 0.1,
+        "kill_death_ratio": 0.67,
         "longest_life_secs": 1017,
         "shortest_life_secs": 0,
-        "combat": 59,
-        "offense": 40,
-        "defense": 420,
-        "support": 1123,
+        "combat": 73,
+        "offense": 80,
+        "defense": 440,
+        "support": 1285,
         "most_killed": {
-          "45f89a938075b827a637e5648f5bb45c": 1
+          "45f89a938075b827a637e5648f5bb45c": 1,
+          "6fc6b955eceb47cbe807e81e5b61ff82": 1
         },
         "death_by": {
-          "6fc6b955eceb47cbe807e81e5b61ff82": 2
+          "6fc6b955eceb47cbe807e81e5b61ff82": 3
         },
         "weapons": {
-          "BOMBING RUN": 1
+          "BOMBING RUN": 1,
+          "MP40": 1
         },
         "death_by_weapons": {
-          "M1 GARAND": 2
+          "M1 GARAND": 3
         },
         "team": "axis",
         "level": 262,
         "vehicles_destroyed": 1,
         "vehicle_kills": 0,
+        "kills_and_assists": 2,
+        "deaths_and_redeploys": 3,
+        "faction": "ger",
+        "status": "online"
+      },
+      {
+        "player": "LAT-Alex",
+        "platform": "psn",
+        "kills": 1,
+        "kills_streak": 1,
+        "deaths": 1,
+        "deaths_without_kill_streak": 1,
+        "teamkills": 0,
+        "teamkills_streak": 0,
+        "deaths_by_tk": 0,
+        "deaths_by_tk_streak": 0,
+        "nb_vote_started": 0,
+        "nb_voted_yes": 0,
+        "nb_voted_no": 0,
+        "time_seconds": 358,
+        "last_spawn": "2026-11-14T21:58:48+00:00",
+        "kills_per_minute": 0.17,
+        "deaths_per_minute": 0.17,
+        "kill_death_ratio": 1.0,
+        "longest_life_secs": 290,
+        "shortest_life_secs": 0,
+        "combat": 13,
+        "offense": 60,
+        "defense": 20,
+        "support": 20,
+        "most_killed": {
+          "6fc6b955eceb47cbe807e81e5b61ff82": 1
+        },
+        "death_by": {
+          "6fc6b955eceb47cbe807e81e5b61ff82": 1
+        },
+        "weapons": {
+          "KARABINER 98K": 1
+        },
+        "death_by_weapons": {
+          "M1 GARAND": 1
+        },
+        "team": "axis",
+        "level": 115,
+        "vehicles_destroyed": 0,
+        "vehicle_kills": 0,
         "kills_and_assists": 1,
-        "deaths_and_redeploys": 2,
+        "deaths_and_redeploys": 1,
         "faction": "ger",
         "status": "online"
       },
       {
         "player": "TONY-sVs-",
         "platform": "psn",
-        "kills": 2,
-        "kills_streak": 2,
-        "deaths": 0,
-        "deaths_without_kill_streak": 0,
+        "kills": 4,
+        "kills_streak": 3,
+        "deaths": 2,
+        "deaths_without_kill_streak": 1,
         "teamkills": 0,
         "teamkills_streak": 0,
         "deaths_by_tk": 0,
@@ -100,31 +148,38 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 607,
-        "last_spawn": "2026-11-14T21:44:48+00:00",
-        "kills_per_minute": 0.2,
-        "deaths_per_minute": 0.0,
+        "time_seconds": 908,
+        "last_spawn": "2026-11-14T21:59:00+00:00",
+        "kills_per_minute": 0.26,
+        "deaths_per_minute": 0.13,
         "kill_death_ratio": 2.0,
-        "longest_life_secs": 0,
+        "longest_life_secs": 730,
         "shortest_life_secs": 0,
-        "combat": 175,
+        "combat": 195,
         "offense": 60,
-        "defense": 100,
-        "support": 478,
+        "defense": 180,
+        "support": 634,
         "most_killed": {
-          "4f5ac6d68edd8672710915cc1af713a7": 2
+          "4f5ac6d68edd8672710915cc1af713a7": 3,
+          "14b1c841173443384b8ad0de74645b62": 1
         },
-        "death_by": {},
+        "death_by": {
+          "14b1c841173443384b8ad0de74645b62": 1,
+          "4f5ac6d68edd8672710915cc1af713a7": 1
+        },
         "weapons": {
-          "M1 GARAND": 2
+          "M1 GARAND": 4
         },
-        "death_by_weapons": {},
+        "death_by_weapons": {
+          "KARABINER 98K": 1,
+          "MP40": 1
+        },
         "team": "allies",
         "level": 194,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
-        "kills_and_assists": 2,
-        "deaths_and_redeploys": 1,
+        "kills_and_assists": 4,
+        "deaths_and_redeploys": 3,
         "faction": "us",
         "status": "online"
       }

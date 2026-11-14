@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794697498.504882,
+    "snapshot_timestamp": 1794697799.702997,
     "stats": [
       {
         "player": "LAT-WolfARG",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 852,
+        "time_seconds": 1153,
         "last_spawn": "2026-11-14T22:50:46+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,8 +25,8 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 260,
-        "support": 300,
+        "defense": 360,
+        "support": 450,
         "most_killed": {},
         "death_by": {},
         "weapons": {},

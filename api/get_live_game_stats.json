@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794686100.679975,
+    "snapshot_timestamp": 1794686401.712493,
     "stats": [
       {
         "player": "LAT-AlacranArg",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 2911,
+        "time_seconds": 3212,
         "last_spawn": "2026-11-14T19:06:29+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,

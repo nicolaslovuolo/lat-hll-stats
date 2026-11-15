@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794755092.312819,
+    "snapshot_timestamp": 1794755393.524605,
     "stats": [
       {
         "player": "xBANDIT 440x",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 124,
+        "time_seconds": 425,
         "last_spawn": "2026-11-15T15:02:48+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,8 +25,8 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 20,
-        "support": 50,
+        "defense": 100,
+        "support": 100,
         "most_killed": {},
         "death_by": {},
         "weapons": {},
@@ -36,7 +36,7 @@
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
-        "deaths_and_redeploys": 0,
+        "deaths_and_redeploys": 1,
         "faction": "rus",
         "status": "online"
       },
@@ -54,7 +54,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 124,
+        "time_seconds": 425,
         "last_spawn": "2026-11-15T15:02:48+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -62,8 +62,8 @@
         "longest_life_secs": 0,
         "shortest_life_secs": 0,
         "combat": 0,
-        "offense": 0,
-        "defense": 20,
+        "offense": 60,
+        "defense": 40,
         "support": 0,
         "most_killed": {},
         "death_by": {},

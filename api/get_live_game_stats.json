@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794771300.786774,
+    "snapshot_timestamp": 1794771601.762599,
     "stats": [
       {
         "player": "Icexn",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 312,
+        "time_seconds": 613,
         "last_spawn": "2026-11-15T19:29:48+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -24,9 +24,9 @@
         "longest_life_secs": 0,
         "shortest_life_secs": 0,
         "combat": 0,
-        "offense": 0,
-        "defense": 80,
-        "support": 120,
+        "offense": 20,
+        "defense": 100,
+        "support": 270,
         "most_killed": {},
         "death_by": {},
         "weapons": {},
@@ -54,7 +54,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 332,
+        "time_seconds": 633,
         "last_spawn": "2026-11-15T19:29:28+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -63,7 +63,7 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 80,
+        "defense": 180,
         "support": 65,
         "most_killed": {},
         "death_by": {},

@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794777292.736589,
+    "snapshot_timestamp": 1794777593.956544,
     "stats": [
       {
         "player": "LAT-WolfARG",
@@ -16,8 +16,8 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 3340,
-        "last_spawn": "2026-11-15T20:19:12+00:00",
+        "time_seconds": 73,
+        "last_spawn": "2026-11-15T21:18:40+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
         "kill_death_ratio": 0.0,
@@ -25,19 +25,19 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 1080,
-        "support": 0,
+        "defense": 60,
+        "support": 90,
         "most_killed": {},
         "death_by": {},
         "weapons": {},
         "death_by_weapons": {},
-        "team": "allies",
+        "team": "axis",
         "level": 135,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
         "deaths_and_redeploys": 0,
-        "faction": "us",
+        "faction": "ger",
         "status": "online"
       }
     ],

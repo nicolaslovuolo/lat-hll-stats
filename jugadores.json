@@ -1,6 +1,15 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-15T15:00:01.413098+00:00",
-  "jugadores_conectados": [],
-  "total": 0
+  "actualizado": "2026-11-15T15:05:01.533252+00:00",
+  "jugadores_conectados": [
+    {
+      "nombre": "xBANDIT 440x",
+      "plataforma": "xbl"
+    },
+    {
+      "nombre": "BANDIT 440",
+      "plataforma": "xbl"
+    }
+  ],
+  "total": 2
 }

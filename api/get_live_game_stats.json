@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794871495.77063,
+    "snapshot_timestamp": 1794871797.131149,
     "stats": [
       {
         "player": "LAT-WolfARG",
@@ -16,17 +16,17 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 2219,
+        "time_seconds": 2521,
         "last_spawn": "2026-11-16T22:47:56+00:00",
-        "kills_per_minute": 0.11,
+        "kills_per_minute": 0.1,
         "deaths_per_minute": 0.0,
         "kill_death_ratio": 4.0,
         "longest_life_secs": 0,
         "shortest_life_secs": 0,
         "combat": 55,
-        "offense": 260,
-        "defense": 400,
-        "support": 1265,
+        "offense": 280,
+        "defense": 480,
+        "support": 1618,
         "most_killed": {
           "4f5ac6d68edd8672710915cc1af713a7": 4
         },
@@ -42,7 +42,7 @@
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 4,
-        "deaths_and_redeploys": 1,
+        "deaths_and_redeploys": 2,
         "faction": "cw",
         "status": "online"
       },
@@ -60,17 +60,17 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1989,
+        "time_seconds": 2291,
         "last_spawn": "2026-11-16T23:21:18+00:00",
         "kills_per_minute": 0.0,
-        "deaths_per_minute": 0.12,
+        "deaths_per_minute": 0.1,
         "kill_death_ratio": 0.0,
         "longest_life_secs": 894,
         "shortest_life_secs": 0,
         "combat": 201,
         "offense": 0,
-        "defense": 580,
-        "support": 1254,
+        "defense": 680,
+        "support": 1354,
         "most_killed": {},
         "death_by": {
           "0e8d95e93f73b5d278350b2d7cf17ae3": 4

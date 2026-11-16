@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794812687.5953,
+    "snapshot_timestamp": 1794812988.902892,
     "stats": [
       {
         "player": "matebruschi",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 27,
+        "time_seconds": 328,
         "last_spawn": "2026-11-16T07:04:20+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,19 +25,19 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 0,
+        "defense": 100,
         "support": 0,
         "most_killed": {},
         "death_by": {},
         "weapons": {},
         "death_by_weapons": {},
-        "team": null,
+        "team": "axis",
         "level": 10,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
         "deaths_and_redeploys": 0,
-        "faction": null,
+        "faction": "ger",
         "status": "online"
       }
     ],

@@ -1,12 +1,12 @@
 {
   "result": {
-    "snapshot_timestamp": 1794870591.677336,
+    "snapshot_timestamp": 1794870892.999195,
     "stats": [
       {
         "player": "LAT-WolfARG",
         "platform": "psn",
-        "kills": 2,
-        "kills_streak": 2,
+        "kills": 3,
+        "kills_streak": 3,
         "deaths": 0,
         "deaths_without_kill_streak": 0,
         "teamkills": 0,
@@ -16,31 +16,31 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1315,
+        "time_seconds": 1617,
         "last_spawn": "2026-11-16T22:47:56+00:00",
-        "kills_per_minute": 0.09,
+        "kills_per_minute": 0.11,
         "deaths_per_minute": 0.0,
-        "kill_death_ratio": 2.0,
+        "kill_death_ratio": 3.0,
         "longest_life_secs": 0,
         "shortest_life_secs": 0,
-        "combat": 25,
-        "offense": 20,
+        "combat": 43,
+        "offense": 120,
         "defense": 340,
-        "support": 515,
+        "support": 790,
         "most_killed": {
-          "4f5ac6d68edd8672710915cc1af713a7": 2
+          "4f5ac6d68edd8672710915cc1af713a7": 3
         },
         "death_by": {},
         "weapons": {
           "STRAFING RUN": 1,
-          "M1928A1 THOMPSON": 1
+          "M1928A1 THOMPSON": 2
         },
         "death_by_weapons": {},
         "team": "allies",
         "level": 135,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
-        "kills_and_assists": 2,
+        "kills_and_assists": 3,
         "deaths_and_redeploys": 1,
         "faction": "cw",
         "status": "online"
@@ -50,8 +50,8 @@
         "platform": "psn",
         "kills": 0,
         "kills_streak": 0,
-        "deaths": 2,
-        "deaths_without_kill_streak": 2,
+        "deaths": 3,
+        "deaths_without_kill_streak": 3,
         "teamkills": 0,
         "teamkills_streak": 0,
         "deaths_by_tk": 0,
@@ -59,32 +59,32 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1085,
-        "last_spawn": "2026-11-16T23:09:16+00:00",
+        "time_seconds": 1387,
+        "last_spawn": "2026-11-16T23:14:40+00:00",
         "kills_per_minute": 0.0,
-        "deaths_per_minute": 0.11,
+        "deaths_per_minute": 0.13,
         "kill_death_ratio": 0.0,
         "longest_life_secs": 894,
         "shortest_life_secs": 0,
         "combat": 101,
         "offense": 0,
-        "defense": 300,
-        "support": 676,
+        "defense": 400,
+        "support": 851,
         "most_killed": {},
         "death_by": {
-          "0e8d95e93f73b5d278350b2d7cf17ae3": 2
+          "0e8d95e93f73b5d278350b2d7cf17ae3": 3
         },
         "weapons": {},
         "death_by_weapons": {
           "STRAFING RUN": 1,
-          "M1928A1 THOMPSON": 1
+          "M1928A1 THOMPSON": 2
         },
         "team": "axis",
         "level": 263,
         "vehicles_destroyed": 2,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
-        "deaths_and_redeploys": 2,
+        "deaths_and_redeploys": 3,
         "faction": "ger",
         "status": "online"
       }

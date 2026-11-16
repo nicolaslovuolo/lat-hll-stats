@@ -1,14 +1,14 @@
 {
   "result": {
-    "snapshot_timestamp": 1794871797.131149,
+    "snapshot_timestamp": 1794872098.489896,
     "stats": [
       {
         "player": "LAT-WolfARG",
         "platform": "psn",
-        "kills": 4,
-        "kills_streak": 4,
-        "deaths": 0,
-        "deaths_without_kill_streak": 0,
+        "kills": 6,
+        "kills_streak": 5,
+        "deaths": 1,
+        "deaths_without_kill_streak": 1,
         "teamkills": 0,
         "teamkills_streak": 0,
         "deaths_by_tk": 0,
@@ -16,43 +16,48 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 2521,
-        "last_spawn": "2026-11-16T22:47:56+00:00",
-        "kills_per_minute": 0.1,
-        "deaths_per_minute": 0.0,
-        "kill_death_ratio": 4.0,
-        "longest_life_secs": 0,
+        "time_seconds": 2822,
+        "last_spawn": "2026-11-16T23:33:12+00:00",
+        "kills_per_minute": 0.13,
+        "deaths_per_minute": 0.02,
+        "kill_death_ratio": 6.0,
+        "longest_life_secs": 2716,
         "shortest_life_secs": 0,
-        "combat": 55,
-        "offense": 280,
-        "defense": 480,
-        "support": 1618,
+        "combat": 84,
+        "offense": 340,
+        "defense": 500,
+        "support": 1721,
         "most_killed": {
-          "4f5ac6d68edd8672710915cc1af713a7": 4
+          "4f5ac6d68edd8672710915cc1af713a7": 6
         },
-        "death_by": {},
+        "death_by": {
+          "4f5ac6d68edd8672710915cc1af713a7": 1
+        },
         "weapons": {
           "STRAFING RUN": 1,
           "M1928A1 THOMPSON": 2,
-          "Fairbairn–Sykes": 1
+          "Fairbairn–Sykes": 1,
+          "Rifle No.4 Mk I": 2
         },
-        "death_by_weapons": {},
+        "death_by_weapons": {
+          "BOMBING RUN": 1
+        },
         "team": "allies",
         "level": 135,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
-        "kills_and_assists": 4,
-        "deaths_and_redeploys": 2,
+        "kills_and_assists": 6,
+        "deaths_and_redeploys": 3,
         "faction": "cw",
         "status": "online"
       },
       {
         "player": "LAT-NicolasloVu",
         "platform": "psn",
-        "kills": 0,
-        "kills_streak": 0,
-        "deaths": 4,
-        "deaths_without_kill_streak": 4,
+        "kills": 1,
+        "kills_streak": 1,
+        "deaths": 6,
+        "deaths_without_kill_streak": 5,
         "teamkills": 0,
         "teamkills_streak": 0,
         "deaths_by_tk": 0,
@@ -60,33 +65,38 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 2291,
-        "last_spawn": "2026-11-16T23:21:18+00:00",
-        "kills_per_minute": 0.0,
-        "deaths_per_minute": 0.1,
-        "kill_death_ratio": 0.0,
+        "time_seconds": 2592,
+        "last_spawn": "2026-11-16T23:34:41+00:00",
+        "kills_per_minute": 0.02,
+        "deaths_per_minute": 0.14,
+        "kill_death_ratio": 0.17,
         "longest_life_secs": 894,
         "shortest_life_secs": 0,
-        "combat": 201,
+        "combat": 313,
         "offense": 0,
-        "defense": 680,
-        "support": 1354,
-        "most_killed": {},
-        "death_by": {
-          "0e8d95e93f73b5d278350b2d7cf17ae3": 4
+        "defense": 740,
+        "support": 1507,
+        "most_killed": {
+          "0e8d95e93f73b5d278350b2d7cf17ae3": 1
         },
-        "weapons": {},
+        "death_by": {
+          "0e8d95e93f73b5d278350b2d7cf17ae3": 6
+        },
+        "weapons": {
+          "BOMBING RUN": 1
+        },
         "death_by_weapons": {
           "STRAFING RUN": 1,
           "M1928A1 THOMPSON": 2,
-          "Fairbairn–Sykes": 1
+          "Fairbairn–Sykes": 1,
+          "Rifle No.4 Mk I": 2
         },
         "team": "axis",
         "level": 263,
         "vehicles_destroyed": 2,
         "vehicle_kills": 0,
-        "kills_and_assists": 0,
-        "deaths_and_redeploys": 4,
+        "kills_and_assists": 1,
+        "deaths_and_redeploys": 6,
         "faction": "ger",
         "status": "online"
       }

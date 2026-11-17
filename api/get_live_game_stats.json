@@ -1,50 +1,7 @@
 {
   "result": {
-    "snapshot_timestamp": 1794957589.781053,
-    "stats": [
-      {
-        "player": "OaHuHu",
-        "platform": "psn",
-        "kills": 0,
-        "kills_streak": 0,
-        "deaths": 1,
-        "deaths_without_kill_streak": 1,
-        "teamkills": 0,
-        "teamkills_streak": 0,
-        "deaths_by_tk": 0,
-        "deaths_by_tk_streak": 0,
-        "nb_vote_started": 0,
-        "nb_voted_yes": 0,
-        "nb_voted_no": 0,
-        "time_seconds": 636,
-        "last_spawn": "2026-11-17T23:13:39+00:00",
-        "kills_per_minute": 0.0,
-        "deaths_per_minute": 0.09,
-        "kill_death_ratio": 0.0,
-        "longest_life_secs": 266,
-        "shortest_life_secs": 0,
-        "combat": 0,
-        "offense": 40,
-        "defense": 60,
-        "support": 0,
-        "most_killed": {},
-        "death_by": {
-          "3f152f945cf6ad528ac78c73acf448b5": 1
-        },
-        "weapons": {},
-        "death_by_weapons": {
-          "SVT40": 1
-        },
-        "team": "axis",
-        "level": 1,
-        "vehicles_destroyed": 0,
-        "vehicle_kills": 0,
-        "kills_and_assists": 0,
-        "deaths_and_redeploys": 1,
-        "faction": "ger",
-        "status": "online"
-      }
-    ],
+    "snapshot_timestamp": 1794957891.054209,
+    "stats": [],
     "refresh_interval_sec": 300
   },
   "command": "get_live_game_stats",

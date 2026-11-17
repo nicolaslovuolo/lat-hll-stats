@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794881388.647632,
+    "snapshot_timestamp": 1794881689.924706,
     "stats": [
       {
         "player": "GEOMAR",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 2558,
+        "time_seconds": 2859,
         "last_spawn": "2026-11-17T01:27:10+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,7 +25,7 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 820,
+        "defense": 920,
         "support": 0,
         "most_killed": {},
         "death_by": {},
@@ -54,7 +54,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 28,
+        "time_seconds": 329,
         "last_spawn": "2026-11-17T02:09:20+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -63,8 +63,8 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 0,
-        "support": 0,
+        "defense": 60,
+        "support": 10,
         "most_killed": {},
         "death_by": {},
         "weapons": {},

@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794880500.162849,
+    "snapshot_timestamp": 1794880801.343699,
     "stats": [
       {
         "player": "GEOMAR",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1670,
+        "time_seconds": 1971,
         "last_spawn": "2026-11-17T01:27:10+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,7 +25,7 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 520,
+        "defense": 640,
         "support": 0,
         "most_killed": {},
         "death_by": {},

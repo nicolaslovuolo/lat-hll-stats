@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1794962391.044491,
+    "snapshot_timestamp": 1794962692.352502,
     "stats": [
       {
         "player": "Ander_Soldier13",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 673,
+        "time_seconds": 974,
         "last_spawn": "2026-11-18T00:28:38+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,

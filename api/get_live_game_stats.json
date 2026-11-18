@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795025992.901203,
+    "snapshot_timestamp": 1795026294.148033,
     "stats": [
       {
         "player": "ChecoAntrax29",
@@ -16,16 +16,16 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 474,
+        "time_seconds": 765,
         "last_spawn": "2026-11-18T18:11:58+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
         "kill_death_ratio": 0.0,
-        "longest_life_secs": 0,
+        "longest_life_secs": 765,
         "shortest_life_secs": 0,
-        "combat": 0,
-        "offense": 0,
-        "defense": 140,
+        "combat": 10,
+        "offense": 80,
+        "defense": 160,
         "support": 20,
         "most_killed": {},
         "death_by": {},

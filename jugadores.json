@@ -1,11 +1,15 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-18T00:30:01.739550+00:00",
+  "actualizado": "2026-11-18T00:35:01.927055+00:00",
   "jugadores_conectados": [
+    {
+      "nombre": "Rxiqn-bruh",
+      "plataforma": "psn"
+    },
     {
       "nombre": "Ander_Soldier13",
       "plataforma": "psn"
     }
   ],
-  "total": 1
+  "total": 2
 }

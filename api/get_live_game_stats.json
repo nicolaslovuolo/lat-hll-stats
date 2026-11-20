@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795199698.076988,
+    "snapshot_timestamp": 1795199999.443496,
     "stats": [
       {
         "player": "jartur-jartur",
@@ -16,15 +16,15 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 4099,
+        "time_seconds": 4400,
         "last_spawn": "2026-11-20T17:49:35+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
         "kill_death_ratio": 0.0,
         "longest_life_secs": 1376,
         "shortest_life_secs": 0,
-        "combat": 814,
-        "offense": 920,
+        "combat": 864,
+        "offense": 1020,
         "defense": 220,
         "support": 250,
         "most_killed": {},
@@ -33,7 +33,7 @@
         "death_by_weapons": {},
         "team": "allies",
         "level": 61,
-        "vehicles_destroyed": 15,
+        "vehicles_destroyed": 16,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
         "deaths_and_redeploys": 5,

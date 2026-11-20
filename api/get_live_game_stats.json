@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795195495.215769,
+    "snapshot_timestamp": 1795195796.487003,
     "stats": [
       {
         "player": "jartur-jartur",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 715,
+        "time_seconds": 1016,
         "last_spawn": "2026-11-20T17:13:00+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -24,7 +24,7 @@
         "longest_life_secs": 0,
         "shortest_life_secs": 0,
         "combat": 202,
-        "offense": 140,
+        "offense": 240,
         "defense": 60,
         "support": 0,
         "most_killed": {},

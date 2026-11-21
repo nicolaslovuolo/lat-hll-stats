@@ -1,6 +1,11 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-21T23:00:01.373118+00:00",
-  "jugadores_conectados": [],
-  "total": 0
+  "actualizado": "2026-11-21T23:05:01.903364+00:00",
+  "jugadores_conectados": [
+    {
+      "nombre": "yayo-jaironahin",
+      "plataforma": "psn"
+    }
+  ],
+  "total": 1
 }

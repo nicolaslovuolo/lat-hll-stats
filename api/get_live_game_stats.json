@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795368598.983775,
+    "snapshot_timestamp": 1795368900.457174,
     "stats": [
       {
         "player": "xxBadlandsx",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 3804,
+        "time_seconds": 4106,
         "last_spawn": "2026-11-22T16:26:34+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,8 +25,8 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 1160,
-        "support": 2640,
+        "defense": 1260,
+        "support": 2855,
         "most_killed": {},
         "death_by": {},
         "weapons": {},

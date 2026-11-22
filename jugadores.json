@@ -1,15 +1,11 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-22T16:50:02.017256+00:00",
+  "actualizado": "2026-11-22T16:55:02.187776+00:00",
   "jugadores_conectados": [
     {
       "nombre": "xxBadlandsx",
       "plataforma": "xbl"
-    },
-    {
-      "nombre": "draconis-ignis7",
-      "plataforma": "psn"
     }
   ],
-  "total": 2
+  "total": 1
 }

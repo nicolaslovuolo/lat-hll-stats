@@ -1,6 +1,6 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-22T16:35:01.949141+00:00",
+  "actualizado": "2026-11-22T16:40:02.045014+00:00",
   "jugadores_conectados": [
     {
       "nombre": "xxBadlandsx",
@@ -9,7 +9,11 @@
     {
       "nombre": "Spam_suspeito",
       "plataforma": "psn"
+    },
+    {
+      "nombre": "Luis_OtavioVR",
+      "plataforma": "psn"
     }
   ],
-  "total": 2
+  "total": 3
 }

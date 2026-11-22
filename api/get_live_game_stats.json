@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795354493.21241,
+    "snapshot_timestamp": 1795354794.822175,
     "stats": [
       {
         "player": "Rafa-SK-Freitas",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 612,
+        "time_seconds": 913,
         "last_spawn": "2026-11-22T13:24:41+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,7 +25,7 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 140,
+        "defense": 240,
         "support": 0,
         "most_killed": {},
         "death_by": {},
@@ -36,7 +36,7 @@
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
-        "deaths_and_redeploys": 0,
+        "deaths_and_redeploys": 1,
         "faction": "cw",
         "status": "online"
       }

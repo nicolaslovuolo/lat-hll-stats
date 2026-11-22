@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795355096.351051,
+    "snapshot_timestamp": 1795355397.880172,
     "stats": [
       {
         "player": "Rafa-SK-Freitas",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 1215,
+        "time_seconds": 1516,
         "last_spawn": "2026-11-22T13:24:41+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -24,8 +24,8 @@
         "longest_life_secs": 0,
         "shortest_life_secs": 0,
         "combat": 0,
-        "offense": 0,
-        "defense": 320,
+        "offense": 80,
+        "defense": 360,
         "support": 60,
         "most_killed": {},
         "death_by": {},

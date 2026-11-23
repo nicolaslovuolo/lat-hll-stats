@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795456192.158062,
+    "snapshot_timestamp": 1795456493.581029,
     "stats": [
       {
         "player": "BikeredBrain",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 197,
+        "time_seconds": 498,
         "last_spawn": "2026-11-23T17:46:35+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,8 +25,8 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 40,
-        "support": 60,
+        "defense": 100,
+        "support": 180,
         "most_killed": {},
         "death_by": {},
         "weapons": {},

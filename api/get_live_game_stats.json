@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795443888.189378,
+    "snapshot_timestamp": 1795444189.522724,
     "stats": [
       {
         "player": "Cedodu57",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 731,
+        "time_seconds": 1032,
         "last_spawn": "2026-11-23T14:12:37+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -25,19 +25,19 @@
         "shortest_life_secs": 0,
         "combat": 0,
         "offense": 0,
-        "defense": 180,
-        "support": 190,
+        "defense": 240,
+        "support": 253,
         "most_killed": {},
         "death_by": {},
         "weapons": {},
         "death_by_weapons": {},
-        "team": "allies",
+        "team": "axis",
         "level": 38,
         "vehicles_destroyed": 0,
         "vehicle_kills": 0,
         "kills_and_assists": 0,
-        "deaths_and_redeploys": 3,
-        "faction": "rus",
+        "deaths_and_redeploys": 4,
+        "faction": "ger",
         "status": "online"
       }
     ],

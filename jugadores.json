@@ -1,6 +1,15 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-24T23:05:02.149974+00:00",
-  "jugadores_conectados": [],
-  "total": 0
+  "actualizado": "2026-11-24T23:10:02.172074+00:00",
+  "jugadores_conectados": [
+    {
+      "nombre": "MJKiller47",
+      "plataforma": "psn"
+    },
+    {
+      "nombre": "Punishers0098",
+      "plataforma": "psn"
+    }
+  ],
+  "total": 2
 }

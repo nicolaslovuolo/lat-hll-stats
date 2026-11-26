@@ -1,6 +1,11 @@
 {
   "servidor": "LAT - Hell Let Loose",
-  "actualizado": "2026-11-26T17:30:01.888760+00:00",
-  "jugadores_conectados": [],
-  "total": 0
+  "actualizado": "2026-11-26T17:35:02.066408+00:00",
+  "jugadores_conectados": [
+    {
+      "nombre": "Playfrota",
+      "plataforma": "psn"
+    }
+  ],
+  "total": 1
 }

@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795717196.460991,
+    "snapshot_timestamp": 1795717497.95228,
     "stats": [
       {
         "player": "Playfrota",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 2977,
+        "time_seconds": 3278,
         "last_spawn": "2026-11-26T18:09:06+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,

@@ -1,6 +1,6 @@
 {
   "result": {
-    "snapshot_timestamp": 1795865688.164352,
+    "snapshot_timestamp": 1795865989.705949,
     "stats": [
       {
         "player": "D_i_m_a_G_",
@@ -16,7 +16,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 404,
+        "time_seconds": 705,
         "last_spawn": "2026-11-28T11:28:04+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -54,7 +54,7 @@
         "nb_vote_started": 0,
         "nb_voted_yes": 0,
         "nb_voted_no": 0,
-        "time_seconds": 406,
+        "time_seconds": 707,
         "last_spawn": "2026-11-28T11:28:02+00:00",
         "kills_per_minute": 0.0,
         "deaths_per_minute": 0.0,
@@ -62,8 +62,8 @@
         "longest_life_secs": 0,
         "shortest_life_secs": 0,
         "combat": 0,
-        "offense": 0,
-        "defense": 80,
+        "offense": 40,
+        "defense": 140,
         "support": 0,
         "most_killed": {},
         "death_by": {},
